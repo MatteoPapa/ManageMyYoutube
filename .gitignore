@@ -1,0 +1,14 @@
+log/development.log
+client_secret.json
+youtube-quickstart-ruby-credentials.yaml
+*.log
+*.log.*
+log/
+.env
+.env.*
+tmp/
+tmp/cache/
+db/development.sqlite3
+log/development.log
+app/controllers/youtube-quickstart-ruby-credentials.yaml
+app/controllers/client_secret.json
