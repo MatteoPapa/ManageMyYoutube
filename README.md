@@ -1,4 +1,5 @@
 # ManageMyYoutube
+<img width="1902" height="942" alt="Screenshot 2025-07-22 152159" src="https://github.com/user-attachments/assets/015c5512-dc4d-42e3-bed8-9fefdfa75cc0" />
 
 **Software Architecture and IT Security Laboratory Project  
 La Sapienza University of Rome, 2021–2022**  
